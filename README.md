@@ -121,7 +121,7 @@ while 1:
     print()
 ```
 
-## Result:
+## Output:
 server:
 
 <img width="693" height="487" alt="1b server" src="https://github.com/user-attachments/assets/2264f080-29f2-443e-a717-37ea6779342c" />
@@ -130,6 +130,6 @@ client:
 
 <img width="878" height="378" alt="1b client" src="https://github.com/user-attachments/assets/cc553bb4-5f32-4640-afd6-73effb0764dc" />
 
-
+## Result:
 Thus the study on Client Server Chat Applications has been performed
 
